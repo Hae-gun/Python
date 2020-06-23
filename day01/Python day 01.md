@@ -11,9 +11,12 @@
 ```python
 print("Hello, World!")
 print('Hello, World!')
+
 ```
 
 ![image-20200623133025159](C:\Users\newch\AppData\Roaming\Typora\typora-user-images\image-20200623133025159.png)
+
+
 
 > 문자열 출력 함수는 `print()`, `""`, `''` 상관없이 모두 문자열을 출력한다. 
 
