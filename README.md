@@ -2,7 +2,7 @@
 
 
 
-[day01 - 파이썬 설치 및 기초문법](https://github.com/Hae-gun/Python/blob/master/day01/README.md)
+[day01 - 파이썬 설치 및 기초문법](https://github.com/Hae-gun/Python/blob/master/day01/Day01.md)
 
 [day02 - 숫자계산 & 변수사용](https://github.com/Hae-gun/Python/blob/master/day02/Day02.md)
 
